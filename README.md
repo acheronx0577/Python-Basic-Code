@@ -82,8 +82,7 @@ Feel free to fork this repository and submit pull requests if you have improveme
 ### 🛠️ Contribution Guide
 
 1. **Fork the Repository**
-   # Click the 'Fork' button at the top-right of this repository page
-   # or use the GitHub CLI:
+   Click the 'Fork' button at the top-right of this repository page
 
 2. Clone Your Fork (This link is not valid)
 ```
