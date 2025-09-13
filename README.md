@@ -45,7 +45,7 @@ Follow the numbered sections in the Python file to progress from fundamental con
 ## 📊 Track Your Progress
 
 Check off sections as you complete them!
-
+```
 - [ ] **1. Python Basics** - Variables, data types, and simple operations
 - [ ] **2. Control Structures** - Conditionals, loops, and program flow  
 - [ ] **3. Functions** - Defining and using functions
@@ -56,7 +56,7 @@ Check off sections as you complete them!
 - [ ] **8. Modules and Packages** - Code organization and reuse
 - [ ] **9. Advanced Concepts** - Decorators, generators, and more
 - [ ] **10. Real-World Applications** - Practical examples and projects
-
+```
 ---
 
 ## 🔧 Requirements
