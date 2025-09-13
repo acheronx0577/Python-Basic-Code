@@ -162,6 +162,6 @@ This project is open source and available under the MIT License.
 If you have questions or need help:
 - Create an issue on GitHub
 - Add my Discord for helps: acheronx0577
-- Check the FAQ section in the repository wiki
+- How to pull request: [Click here to learn how to make a pull request for beginner](https://www.youtube.com/watch?v=6EQN0gJL7y8)
 
 Happy coding! 💻
