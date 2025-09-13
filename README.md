@@ -1,4 +1,4 @@
-#Python Learning Journey 🐍:
+# Python Learning Journey 🐍
 Welcome to my comprehensive Python learning repository! This single-file collection contains code examples ranging from basic concepts to advanced topics, all organized with clear comments and separators.
 
 ---
