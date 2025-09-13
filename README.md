@@ -1,4 +1,4 @@
-# Python Learning Journey 🐍:
+Python Learning Journey 🐍:
 Welcome to my comprehensive Python learning repository! This single-file collection contains code examples ranging from basic concepts to advanced topics, all organized with clear comments and separators.
 
 ---
@@ -97,7 +97,7 @@ git checkout -b feature/your-feature-name
 - git checkout -b feature/add-new-examples
 - git checkout -b fix/typo-correction
 
-4.Make Your Changes
+4. Make Your Changes
 
 - Add your improvements or new examples
 - Follow the existing code style and structure
