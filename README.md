@@ -28,9 +28,9 @@ Follow the numbered sections in the Python file to progress from fundamental con
 ## 🎯 Getting Started
 
 ### 📥 Download Options:
-- **Direct Download**: [Click here to download Python file]([https://github.com/yourusername/yourrepository/raw/main/python_learning.py](https://www.python.org/downloads))
+- **Direct Download**: [Click here to download Python file](https://www.python.org/downloads)
 - **Git Clone**: `git clone https://github.com/yourusername/yourrepository.git`
-- **View Online**: [GitHub Repository](https://github.com/yourusername/yourrepository)
+- **View Online**: [GitHub Repository](https://github.com/acheronx0577?tab=repositories)
 
 ### ⚙️ Setup Instructions:
 1. Ensure Python 3.x is installed on your system
