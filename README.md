@@ -90,10 +90,13 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Helpful Resources
 
-- [Official Python Documentation](https://docs.python.org/3/)
-- [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-- [Stack Overflow Python Questions](https://stackoverflow.com/questions/tagged/python)
-- [Real Python Tutorials](https://realpython.com/)
+- [Learn to debug Python](https://pythontutor.com)
+  
+- [Python Beginner's Guide (YTB 2025 Link)](https://www.youtube.com/watch?v=K5KVEU3aaeQ)
+  
+- [Build your own Projects](https://github.com/codecrafters-io/build-your-own-x)
+  
+- [Road map for Python Developer and Fullstack Developer](https://roadmap.sh/python)
 
 ---
 
@@ -105,7 +108,7 @@ This project is open source and available under the MIT License.
 
 If you have questions or need help:
 - Create an issue on GitHub
-- Join our Discord community [Insert Discord Link]
+- Add my Discord for helps: acheronx0577
 - Check the FAQ section in the repository wiki
 
 Happy coding! 💻
