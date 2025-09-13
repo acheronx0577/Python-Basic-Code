@@ -1,5 +1,4 @@
 # Python Learning Journey 🐍
-
 Welcome to my comprehensive Python learning repository! This single-file collection contains code examples ranging from basic concepts to advanced topics, all organized with clear comments and separators.
 
 ---
@@ -96,8 +95,8 @@ cd yourrepository
 git checkout -b feature/your-feature-name
 ```
 # Examples:
-# git checkout -b feature/add-new-examples
-# git checkout -b fix/typo-correction
+- git checkout -b feature/add-new-examples
+- git checkout -b fix/typo-correction
 
 4.Make Your Changes
 
@@ -111,13 +110,13 @@ git add .
 git commit -m "Add: Description of your changes"
 ```
 # Use conventional commit messages:
-# - Add: for new features
-# - Fix: for bug fixes
-# - Update: for improvements
+- Add: for new features
+- Fix: for bug fixes
+- Update: for improvements
 
 6. Push to Your Branch (remember the branch name)
 ```
-git push origin feature/your-feature-name
+git push 
 ```
 
 7. Create a Pull Request
