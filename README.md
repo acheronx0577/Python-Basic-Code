@@ -86,12 +86,12 @@ Feel free to fork this repository and submit pull requests if you have improveme
 
 2. Clone Your Fork (This link is not valid)
 ```
-git clone https://github.com/yourusername/yourrepository.git 
+git clone <url> 
 cd yourrepository
 ```
 3. Create a Feature Branch
 ```
-git checkout -b feature/your-feature-name
+git checkout -b "Your Branch Name HERE"
 ```
 # Examples:
 - git checkout -b feature/add-new-examples
@@ -115,7 +115,7 @@ git commit -m "Add: Description of your changes"
 
 6. Push to Your Branch (remember the branch name)
 ```
-git push 
+git push origin yourbranchname
 ```
 
 7. Create a Pull Request
