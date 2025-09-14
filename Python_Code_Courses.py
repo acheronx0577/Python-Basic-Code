@@ -4,7 +4,7 @@
 print("Hello World!")  # This prints "Hello World!" to the screen 👋🌍
 print("*" * 10)  # This creates a visual separator ✨
 
----
+
 
 """
 2. 🎸 Welcome to the Band Name Generator! 🎸
@@ -43,7 +43,7 @@ while True:
 print(f"🎉 Your awesome band name is: {city} {pet}! 🎸✨")  # Band name revealed
 print("🤘 Rock on! 🤘")  # Celebration message
 
----
+
 
 """
 3 📊 Student Grading System with Average Calculation
@@ -76,3 +76,4 @@ print(f"\n📊 Average student score: {sum(score)/len(score):.1f}/100")  # 🧮 
 
 # 🎊 Final message
 print("Nice job everyone! ✅\n")  # 👏 Celebration
+
