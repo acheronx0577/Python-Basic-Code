@@ -77,3 +77,52 @@ print(f"\n📊 Average student score: {sum(score)/len(score):.1f}/100")  # 🧮 
 # 🎊 Final message
 print("Nice job everyone! ✅\n")  # 👏 Celebration
 
+
+"""
+4📝 Proper Formatter
+"""
+def get_user_choice():
+    """Function get user choice and name"""  # 👥 Get user information
+    while True:
+        try:
+            # 👤 Get user's name input
+            input_name = input("\nPlease enter your name: ").strip()
+            # ❌ Validate name is not empty
+            if not input_name:
+                print("You have enter your name!")
+                continue
+            while True:
+                # 📋 Get format preference
+                choice = input(
+                    "Please choose format for your document (text/number): ").strip().lower()
+
+                # 🔢 Prevent numeric input for choice
+                if choice.isdigit():
+                    print("Please enter text/number instead of numbers! \n")
+                    continue
+
+                # ⚠️ Validate choice is not empty
+                if not choice:
+                    print("You must choose either text or number! \n")
+                    continue
+
+                # ✅ Validate against allowed options
+                if choice not in ["text", "number"]:
+                    print("You must choose either text or number! \n")
+                    continue
+
+                # 🎉 Success - valid choice selected
+                print(f"Great! You chose {choice} mode.")
+                return input_name, choice
+
+        except KeyboardInterrupt:
+            # 👋 Handle user interruption gracefully
+            print("\n Goodbye!")
+            return None, None
+
+
+# 🚀 Main program execution
+user_name, user_choice = get_user_choice()
+# 💬 Display results if valid inputs received
+print(f"\nHi {user_name}! ")
+print(f"Your choice: {user_choice} mode!\n")
