@@ -121,8 +121,34 @@ def get_user_choice():
             return None, None
 
 
-# 🚀 Main program execution
+"""
+🚀 Main program execution
+"""
+
 user_name, user_choice = get_user_choice()
 # 💬 Display results if valid inputs received
 print(f"\nHi {user_name}! ")
 print(f"Your choice: {user_choice} mode!\n")
+
+
+
+# 💾 Account Information Database
+account = {
+    "Aella": "aela333333333333a6@gmail.com",  # 👩‍💼 User 1
+    "Ricdard": "richy323232nh@gmail.com",     # 👨‍💼 User 2
+    "Both": "I love her a lot",               # 💑 Relationship status
+}
+
+# 📋 Display available accounts
+print("Available accounts: 👥")
+for key in account:
+    print(f"• {key}")  # 📌 List each account option
+
+# 🎯 Get user selection
+get_user = input("\n👤 Choose an account: ")
+
+# 🔍 Check and display account information
+if get_user in account:
+    print(f"✅ {get_user}'s info: {account[get_user]}")  # 📧 Show account details
+else:
+    print("❌ Account not found!")  # ⚠️ Error message for invalid selection
