@@ -83,7 +83,6 @@ Feel free to fork this repository and submit pull requests if you have improveme
 
 ## 🛠️ Installation & Usage
 
-bash
 ## 1. Clone the repository
 - Remember to change yourusername down this.
 ```
