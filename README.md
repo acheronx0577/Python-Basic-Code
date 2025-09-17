@@ -79,30 +79,31 @@ Check off sections as you complete them!
 
 Feel free to fork this repository and submit pull requests if you have improvements or additional examples!
 
-
 ---
 
 ## 🛠️ Installation & Usage
 
 bash
 ## 1. Clone the repository
+- Remember to change yourusername down this.
 ```
-git clone git@github.com:acheronx0577/LeetCode-Array-Answers-Python3.git
+git@github.com:yourusername/Python-Basic-Code-to-Advance.git
 ```
 ## 2. Navigate to the project
 ```
 ls
 ```
 ```
-cd LeetCode-Array-Answers-Python3
+cd Python-Basic-Code-to-Advance
 ```
 ## 3. Make a new branch
 ```
 git checkout -b "Your Branch Name HERE"
 ```
 ## 4. Run a solution
+- Remeber to change yourfilename down this.
 ```
-py two_sum.py
+py yourfilename.py
 ```
 ## 5. Make your changes and save it
 ```
@@ -117,6 +118,7 @@ git commit -m "Add: Description of your changes"
 - Update: for improvements
 
 ## 6. Push to Your Branch (remember the branch name)
+- Remeber to change yourbranchname down this.
 ```
 git push origin yourbranchname
 ```
