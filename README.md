@@ -79,50 +79,54 @@ Check off sections as you complete them!
 
 Feel free to fork this repository and submit pull requests if you have improvements or additional examples!
 
-### 🛠️ Contribution Guide
 
-1. **Fork the Repository**
-   Click the 'Fork' button at the top-right of this repository page
+---
 
-2. Clone Your Fork (This link is not valid)
+## 🛠️ Installation & Usage
+
+bash
+## 1. Clone the repository
 ```
-git clone <url> 
-cd yourrepository
+git clone git@github.com:acheronx0577/LeetCode-Array-Answers-Python3.git
 ```
-3. Create a Feature Branch
+## 2. Navigate to the project
+```
+ls
+```
+```
+cd LeetCode-Array-Answers-Python3
+```
+## 3. Make a new branch
 ```
 git checkout -b "Your Branch Name HERE"
 ```
-# Examples:
-- git checkout -b feature/add-new-examples
-- git checkout -b fix/typo-correction
-
-4. Make Your Changes
-
-- Add your improvements or new examples
-- Follow the existing code style and structure
-- Test your changes to ensure they work properly
-
-5. Commit Your Changes
+## 4. Run a solution
+```
+py two_sum.py
+```
+## 5. Make your changes and save it
 ```
 git add .
+```
+```
 git commit -m "Add: Description of your changes"
 ```
-# Use conventional commit messages:
+### Use conventional commit messages:
 - Add: for new features
 - Fix: for bug fixes
 - Update: for improvements
 
-6. Push to Your Branch (remember the branch name)
+## 6. Push to Your Branch (remember the branch name)
 ```
 git push origin yourbranchname
 ```
-
-7. Create a Pull Request
+## 7. Create a Pull Request
 - Go to the original repository on GitHub
 - Click "Compare & pull request"
 - Add a clear description of your changes
 - Submit the pull request
+
+---
 
 ---
 📝 Contribution Ideas
