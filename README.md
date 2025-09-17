@@ -128,8 +128,6 @@ git push origin yourbranchname
 - Submit the pull request
 
 ---
-
----
 📝 Contribution Ideas
 
 - Add new code examples
