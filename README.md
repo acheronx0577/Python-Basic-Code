@@ -9,21 +9,6 @@ Follow the numbered sections in the Python file to progress from fundamental con
 
 ---
 
-## 🚀 Learning Path
-
-1. **Python Basics** - Variables, data types, and simple operations
-2. **Control Structures** - Conditionals, loops, and program flow
-3. **Functions** - Defining and using functions
-4. **Data Structures** - Lists, dictionaries, tuples, and sets
-5. **File Handling** - Reading from and writing to files
-6. **Error Handling** - Exceptions and debugging
-7. **Object-Oriented Programming** - Classes and objects
-8. **Modules and Packages** - Code organization and reuse
-9. **Advanced Concepts** - Decorators, generators, and more
-10. **Real-World Applications** - Practical examples and projects
-
----
-
 ## 🎯 Getting Started
 
 ### 📥 Download Options:
